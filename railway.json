@@ -2,6 +2,6 @@
     "build": {
       "builder": "NIXPACKS"
     },
-    "start": "bash start.sh"
+    "start": "python tron.py"
   }
   
